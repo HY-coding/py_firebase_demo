@@ -5,7 +5,7 @@ Main features:
 3. download a file from firebase storage
 
 
-Note:
+Setup:
 1. Need to create a firebase storage project. 
 2. Store the config into Constants.py
 3. Add user email & password into firebase authentication.
